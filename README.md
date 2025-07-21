@@ -1,7 +1,8 @@
-# Desarrollo de página web monolítica, incluyendo una interfaz web interactiva con el usuario y la implementación de un modelo predictivo de una base de datos hospitalaria.
-Debido a que la carpeta comprimida pesa más de lo permitido por GitHub, se subio la caerpeta comprimida a el siguiente link: https://drive.google.com/drive/folders/1MLWdqvfXYr_kB9kLyLnjJtXOBT6jw0Nv?usp=sharing
-
 # Modelo-predictivo-GRD
+
+Se desarrollo de página web monolítica, incluyendo una interfaz web interactiva con el usuario y la implementación de un modelo predictivo de una base de datos hospitalaria. Debido a que la carpeta comprimida pesa más de lo permitido por GitHub, se subio la carpeta comprimida a el siguiente link: https://drive.google.com/drive/folders/1MLWdqvfXYr_kB9kLyLnjJtXOBT6jw0Nv?usp=sharing
+
+## Modelo-predictivo-GRD
 Predicción de GRD código equivalente al gold standar con el que se creó la base de datos de un hospital 
 
 Manual de Usuario - Proyecto GRD (Grupo Relacionado por Diagnóstico)
